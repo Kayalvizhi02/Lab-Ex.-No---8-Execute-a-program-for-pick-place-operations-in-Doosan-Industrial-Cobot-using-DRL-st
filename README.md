@@ -2,7 +2,8 @@
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+## Components Required: 
+Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
 
 ## Theory 
@@ -40,15 +41,20 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+![image](https://user-images.githubusercontent.com/75413726/206201432-8c0d1196-63ab-4e52-9334-b05a530bb099.png)
+![image](https://user-images.githubusercontent.com/75413726/206201477-a8a5b6aa-f858-45b6-a693-931691844512.png)
+![image](https://user-images.githubusercontent.com/75413726/206201542-f4f7a132-df4a-4a02-a1de-6f34066dc19b.png)
 
-//Name:
-MoveJ ................
 
 ## output : 
 
+![image](https://user-images.githubusercontent.com/75413726/206201630-549991b7-9b4f-4b73-8bbc-673aaac3cc70.png)
+
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
+
+
 
 
 
